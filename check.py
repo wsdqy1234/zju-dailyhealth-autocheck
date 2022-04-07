@@ -195,6 +195,8 @@ class HealthCheckInHelper(ZJULogin):
             'zgfx14rfh': '0',
             'zgfx14rfhdd': '',
             'sfyxjzxgym': '1',
+            # 所在校区
+            'campus':'2',
             # 是否不宜接种人群
             'sfbyjzrq': '5',
             'jzxgymqk': '6', # 这里是第三针相关参数，1是已接种第一针，4是已接种第二针（已满6个月），5是已接种第二针（未满6个月），6是已接种第三针，3是未接种，记得自己改
